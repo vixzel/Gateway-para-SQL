@@ -31,3 +31,5 @@ La puerta de enlace está asociada con su cuenta de organización de Office 365.
 4-Seleccione Registrar una nueva puerta de enlace en esta computadora > Siguiente .
 
 5-Ingrese un nombre para la puerta de enlace. El nombre debe ser exclusivo en todo el inquilino. También ingrese una clave de recuperación. Necesitará esta clave si alguna vez desea recuperar o mover su puerta de enlace. Seleccione Configurar .
+
+6-Revise la información en la última ventana. Dado que este ejemplo usa la misma cuenta para Power BI, Power Apps y Power Automate, la puerta de enlace está disponible para los tres servicios. Seleccione Cerrar .
