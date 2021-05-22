@@ -1,5 +1,5 @@
 # Gateway-para-SQL
-#Conexión y configuración de gateway para SQL
+##Conexión y configuración de gateway para SQL
 
 # Requerimientos mínimos
 .NET Framework 4.7.2 (versión de Gateway de diciembre de 2020 y anterior)
